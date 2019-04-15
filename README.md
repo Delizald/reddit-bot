@@ -1,4 +1,4 @@
-# Reddit bot.
+# Reddit bot
 
 Using 'praw': https://praw.readthedocs.io/en/latest/getting_started/installation.html  
   
